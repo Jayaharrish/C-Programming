@@ -1,4 +1,4 @@
-n=int(raw_input("Enter number"))
+n=int(raw_input("Enter a number"))
 temp=abs(n)
 count=0
 while(temp!=0):
