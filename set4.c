@@ -8,6 +8,6 @@ int main(void) {
 	if((no>=65&&no<=96)||(no>=97&&no<=122))
 	printf("alphabet");
 	else
-	printf("not an alphabet");
+	printf("not alphabet");
 	return 0;
 }
